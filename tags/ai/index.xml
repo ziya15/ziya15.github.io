@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>AI on </title>
-		<link>//localhost:1313/tags/ai/</link>
-		<description>Recent content in AI on </description>
+		<title>AI on https://ziya15.github.io/</title>
+		<link>http://localhost:1313/tags/ai/</link>
+		<description>Recent content in AI on https://ziya15.github.io/</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 08 Jul 2026 19:53:33 +0530</lastBuildDate>
 		
-			<atom:link href="//localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Hidden Cost of Smart AI: Why Ethics Must Keep Pace with Innovation</title>
-				<link>//localhost:1313/blogs/math/</link>
+				<link>http://localhost:1313/blogs/math/</link>
 				<pubDate>Wed, 08 Jul 2026 19:53:33 +0530</pubDate>
-				<guid>//localhost:1313/blogs/math/</guid>
+				<guid>http://localhost:1313/blogs/math/</guid>
 				<description>&lt;h1 id=&#34;the-hidden-cost-of-smart-ai-why-ethics-must-keep-pace-with-innovation&#34;&gt;The Hidden Cost of Smart AI: Why Ethics Must Keep Pace with Innovation&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Artificial intelligence is changing the way we live, work, and make decisions. But are we paying enough attention to the ethical challenges that come with it?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) has become one of the fastest-growing technologies in the world. It is used in healthcare to help diagnose diseases, in finance to detect fraud, in education to personalize learning, and in businesses to improve efficiency. AI can analyze huge amounts of data in seconds and often performs tasks much faster than humans. While these benefits are impressive, AI also creates serious ethical concerns that cannot be ignored.&lt;/p&gt;</description>
 			</item>
 	</channel>

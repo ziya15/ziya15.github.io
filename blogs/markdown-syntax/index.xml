@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title> Behind the Login: Are Anonymous Surveys Really Anonymous? on </title>
-		<link>//localhost:1313/blogs/markdown-syntax/</link>
-		<description>Recent content in  Behind the Login: Are Anonymous Surveys Really Anonymous? on </description>
+		<title> Behind the Login: Are Anonymous Surveys Really Anonymous? on https://ziya15.github.io/</title>
+		<link>http://localhost:1313/blogs/markdown-syntax/</link>
+		<description>Recent content in  Behind the Login: Are Anonymous Surveys Really Anonymous? on https://ziya15.github.io/</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,6 +12,6 @@
 		
 			<lastBuildDate></lastBuildDate>
 		
-			<atom:link href="//localhost:1313/blogs/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blogs/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>

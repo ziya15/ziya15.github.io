@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title></title>
-		<link>//localhost:1313/</link>
-		<description>Recent content on </description>
+		<title>https://ziya15.github.io/</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on https://ziya15.github.io/</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Wed, 08 Jul 2026 19:53:33 +0530</lastBuildDate>
 		
-			<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>The Hidden Cost of Smart AI: Why Ethics Must Keep Pace with Innovation</title>
-				<link>//localhost:1313/blogs/math/</link>
+				<link>http://localhost:1313/blogs/math/</link>
 				<pubDate>Wed, 08 Jul 2026 19:53:33 +0530</pubDate>
-				<guid>//localhost:1313/blogs/math/</guid>
+				<guid>http://localhost:1313/blogs/math/</guid>
 				<description>&lt;h1 id=&#34;the-hidden-cost-of-smart-ai-why-ethics-must-keep-pace-with-innovation&#34;&gt;The Hidden Cost of Smart AI: Why Ethics Must Keep Pace with Innovation&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Artificial intelligence is changing the way we live, work, and make decisions. But are we paying enough attention to the ethical challenges that come with it?&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Artificial intelligence (AI) has become one of the fastest-growing technologies in the world. It is used in healthcare to help diagnose diseases, in finance to detect fraud, in education to personalize learning, and in businesses to improve efficiency. AI can analyze huge amounts of data in seconds and often performs tasks much faster than humans. While these benefits are impressive, AI also creates serious ethical concerns that cannot be ignored.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title> Behind the Login: Are Anonymous Surveys Really Anonymous?</title>
-				<link>//localhost:1313/blogs/markdown-syntax/</link>
+				<link>http://localhost:1313/blogs/markdown-syntax/</link>
 				<pubDate>Sat, 27 Jun 2026 23:29:21 +0530</pubDate>
-				<guid>//localhost:1313/blogs/markdown-syntax/</guid>
+				<guid>http://localhost:1313/blogs/markdown-syntax/</guid>
 				<description>&lt;p&gt;should do when privacy and transparency are at risk.&amp;quot;&lt;/p&gt;&#xA;&lt;h1 id=&#34;behind-the-login-are-anonymous-surveys-really-anonymous&#34;&gt;Behind the Login: Are Anonymous Surveys Really Anonymous?&lt;/h1&gt;&#xA;&lt;p&gt;At the end of many courses, students are asked to complete an online survey to share feedback about their learning experience. The goal is usually to improve courses, teaching methods, and student satisfaction. Most students are willing to participate because they believe their responses are anonymous and will be used only to improve future courses.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Image Gallery</title>
-				<link>//localhost:1313/gallery/</link>
+				<link>http://localhost:1313/gallery/</link>
 				<pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
-				<guid>//localhost:1313/gallery/</guid>
+				<guid>http://localhost:1313/gallery/</guid>
 				<description></description>
 			</item>
 	</channel>
