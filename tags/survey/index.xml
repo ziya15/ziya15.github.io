@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Survey on </title>
+		<link>//localhost:1313/tags/survey/</link>
+		<description>Recent content in Survey on </description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 27 Jun 2026 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/survey/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title> Behind the Login: Are Anonymous Surveys Really Anonymous?</title>
+				<link>//localhost:1313/blogs/markdown-syntax/</link>
+				<pubDate>Sat, 27 Jun 2026 23:29:21 +0530</pubDate>
+				<guid>//localhost:1313/blogs/markdown-syntax/</guid>
+				<description>&lt;p&gt;should do when privacy and transparency are at risk.&amp;quot;&lt;/p&gt;&#xA;&lt;h1 id=&#34;behind-the-login-are-anonymous-surveys-really-anonymous&#34;&gt;Behind the Login: Are Anonymous Surveys Really Anonymous?&lt;/h1&gt;&#xA;&lt;p&gt;At the end of many courses, students are asked to complete an online survey to share feedback about their learning experience. The goal is usually to improve courses, teaching methods, and student satisfaction. Most students are willing to participate because they believe their responses are anonymous and will be used only to improve future courses.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
